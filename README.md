@@ -1,8 +1,7 @@
 
 ## ✅ `README.md` 
 
-````markdown
-# 🎧 Azure Voice AI Assistant – Multi-Agent Web Interface
+## 🎧 Azure Voice AI Assistant – Multi-Agent Web Interface
 
 A sleek, responsive **AI voice agent** web app built with:
 - ✅ Microsoft Project AI Agents via `azure-ai-projects`
@@ -21,10 +20,7 @@ A sleek, responsive **AI voice agent** web app built with:
 - 📊 Live metrics: Response time, voice level, TTS status, speech recognition
 - 💬 Rich conversation canvas UI
 
----
-
 ## 🚀 Setup Instructions
-
 ### 1. Clone the Repository
 
 ```bash
