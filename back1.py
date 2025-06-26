@@ -34,10 +34,10 @@ PERFORMANCE_CONFIG = {
 
 # ========== AZURE CONFIGURATION ==========
 # Replace these with your actual Azure credentials
-AZURE_CONNECTION_STRING = "eastus2.api.azureml.ms;e71f7b45-179c-4cc0-8132-3dcbedc58b7f;rg-AI102;ai102"
-AGENT_ID = "asst_Rb7gkrETdb2YQOakfh9BU1Ni"
-AZURE_SPEECH_KEY = "2z90YMnP5BACKrb9vRe19TDAaURiM7btQzj22UhjZZmT497op2mbJQQJ99BEACHYHv6XJ3w3AAAAACOGiqfS"
-AZURE_SPEECH_REGION = "eastus2"
+AZURE_CONNECTION_STRING = "your-connection-string"
+AGENT_ID = "your_agent_ID"
+AZURE_SPEECH_KEY = "your_azure_speeech_key"
+AZURE_SPEECH_REGION = "your_azure_speech_key_region"
 
 # ========== THREAD POOLS ==========
 tts_executor = ThreadPoolExecutor(max_workers=PERFORMANCE_CONFIG['MAX_WORKER_THREADS'], thread_name_prefix="TTS")
