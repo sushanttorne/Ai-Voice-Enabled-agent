@@ -1,0 +1,5 @@
+Flask==2.3.3
+flask-cors==4.0.0
+azure-ai-projects==1.0.0b10
+azure-identity==1.15.0
+azure-cognitiveservices-speech==1.34.1
